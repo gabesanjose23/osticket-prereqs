@@ -147,7 +147,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="Screenshot 2025-02-12 071958.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Step 19- go back to IIS manager and on the left side click on osticket-vm/application pools/sites/default web site/osTicket) On the right click on the http folder.
+<p>Step 19-Go back to IIS manager and on the left side click on osticket-vm/application pools/sites/default web site/osTicket) On the right click on the http folder.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 072653.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 20-Now you on the osTicket site.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 073036.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 21-Go to C drive/inetpub/wwwroot/osticket/include) find a file name C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and change it to C:\inetpub\wwwroot\osTicket\include\ost-config.php.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 073204.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 22-After you change the name right click it and go to the Security tab then disable inheritance and then add one that goes to everyone,then edit the permissions and give it full access, click apply and ok.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
