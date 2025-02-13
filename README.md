@@ -173,33 +173,78 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot 2025-02-12 073350.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>Step 23-Go back to the IIS manager on the right sdie click add then select principal add it to everyone click ok.
+</p>
+<br />
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="Screenshot 2025-02-12 073428.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 24-Give it full permission and click ok.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 073613.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 25-Go back to the site and click on procced.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 073913.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 26-Go back to the folder and install HeidiSQL.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 074108.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 27-Once it finishes installing you click on it and click add new.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 074159.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 28-Right click on the dolphin on the top left and create a new database.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 074527.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 29-Afterwards put in the username,password,and the name of the database on the website.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 074625.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 30-Then click on install now and you should get this screen which means you are done with the set-up.
+</p>
+<br />
+
+<p>
+<img src="Screenshot 2025-02-12 074857.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 31-This is for the enduser to login and put in a ticket request http://localhost/osTicket/
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Step 32- This link is for the helpdesk support person to log in and see there tickets . (http://localhost/osTicket/scp/login.php)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot 2025-02-12 075057.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Step 33-This is what it looks like when you are in and here you can configure how you want the UI for the way you want your tickets formatted.
 </p>
 <br />
