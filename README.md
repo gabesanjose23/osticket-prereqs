@@ -245,6 +245,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="Screenshot 2025-02-12 075057.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Step 33-This is what it looks like when you are in and here you can configure how you want the UI for the way you want your tickets formatted.
+<p>Step 33-This is what it looks like when you are in and here you can configure how you want the UI or the way you want your tickets formatted.
 </p>
 <br />
