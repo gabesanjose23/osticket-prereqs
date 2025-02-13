@@ -236,7 +236,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot 2025-02-12 074952.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Step 32- This link is for the helpdesk support person to log in and see there tickets . (http://localhost/osTicket/scp/login.php)
 </p>
